@@ -2,7 +2,7 @@
 This repository is a support for my master's thesis "NEAT-based Multiclass Classificationwith Class Binarization"
 
 * [Zhenyu Gao](https://scholar.google.com/citations?user=F8bdTwUAAAAJ&hl=en)
-* [Gongjin Lan](https://scholar.google.com/citations?user=WBfADs4AAAAJ&hl=en&oi=ao)
+* [Gongjin Lan](https://scholar.google.com/citations?user=WBfADs4AAAAJ&hl=en&oi=ao)(supervisor)
 
 ## Introduction
 Multiclass classification is a fundamental and challenging task in machine learning. 
@@ -26,5 +26,5 @@ There are three datasets, which are Digit from [Skilearn package](https://scikit
 
 
 ## Good to know
-- the slurm file is for running in clusters
-- please cite this paper if it is helpful for you.
+- the slurm files are used for running in clusters
+- please cite this paper if it is helpful to you.
