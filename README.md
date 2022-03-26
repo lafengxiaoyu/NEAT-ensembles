@@ -15,7 +15,16 @@ ECOC-NEAT also shows significant benefits in a flexible number of binary classif
 
 The structure of ECOC-NEAT is like the following picture shows.
 
-![alt](https://github.com/lafengxiaoyu/NEAT-ensembles/blob/main/ECOCNEAT.png)
+
+![Structures of ECOC-NEAT](https://github.com/lafengxiaoyu/NEAT-ensembles/blob/main/ECOCNEAT.png)
 
 ## Datasets
-There are three datasets, which are Digit from Skilearn package, Ecoli and Satellite datasets from UCI ML  
+There are three datasets, which are Digit from [Skilearn package](https://scikit-learn.org/stable/), Ecoli and Satellite datasets from the [UCI ML repos](https://archive.ics.uci.edu/ml/index.php).  
+
+## Results
+![Results of different methods](https://github.com/lafengxiaoyu/NEAT-ensembles/blob/main/Results.png)
+
+
+## Good to know
+- the slurm file is for running in clusters
+- please cite this paper if it is helpful for you.
