@@ -2,7 +2,7 @@
 This repository is a support for my master's thesis "NEAT-based Multiclass Classificationwith Class Binarization"
 
 * [Zhenyu Gao](https://scholar.google.com/citations?user=F8bdTwUAAAAJ&hl=en)
-* [Gongjin Lan](https://scholar.google.com/citations?user=WBfADs4AAAAJ&hl=en&oi=ao)(supervisor)
+* [Gongjin Lan](https://scholar.google.com/citations?user=WBfADs4AAAAJ&hl=en&oi=ao) (supervisor)
 
 ## Introduction
 Multiclass classification is a fundamental and challenging task in machine learning. 
